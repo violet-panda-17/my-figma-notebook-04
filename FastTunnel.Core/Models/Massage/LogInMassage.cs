@@ -18,3 +18,5 @@ namespace FastTunnel.Core.Models
         public IEnumerable<ForwardConfig> Forwards { get; set; }
     }
 }
+
+// 2f3150

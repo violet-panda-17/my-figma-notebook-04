@@ -17,3 +17,5 @@ jobs:
       - run:
           name: "Run Build step"
           command: dotnet publish -c Release -r win10-x64
+
+# b7a356

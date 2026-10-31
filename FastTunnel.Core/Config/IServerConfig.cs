@@ -13,3 +13,5 @@ namespace FastTunnel.Core.Config
         bool EnableForward { get; set; }
     }
 }
+
+// dd2c97

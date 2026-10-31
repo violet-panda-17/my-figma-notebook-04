@@ -16,3 +16,5 @@ namespace FastTunnel.Core.Config
         public string Token { get; set; }
     }
 }
+
+// 35a5ee

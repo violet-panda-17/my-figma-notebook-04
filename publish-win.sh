@@ -18,3 +18,5 @@ for project in ${projects[*]}; do
         # rm -rf publish/$project.$plate
     done
 done
+
+# 4dab98

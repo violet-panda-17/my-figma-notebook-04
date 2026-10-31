@@ -12,3 +12,5 @@ namespace FastTunnel.Core.Exceptions
         }
     }
 }
+
+// 48b1d4

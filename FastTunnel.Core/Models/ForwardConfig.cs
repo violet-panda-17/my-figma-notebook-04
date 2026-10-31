@@ -22,3 +22,5 @@ namespace FastTunnel.Core.Models
         public int RemotePort { get; set; }
     }
 }
+
+// 689c2a

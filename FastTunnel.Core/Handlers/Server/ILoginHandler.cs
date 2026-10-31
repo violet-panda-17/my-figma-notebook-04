@@ -13,3 +13,5 @@ namespace FastTunnel.Core.Handlers.Server
         Task<bool> HandlerMsg(FastTunnelServer fastTunnelServer, WebSocket webSocket, string lineCmd);
     }
 }
+
+// 2d5073

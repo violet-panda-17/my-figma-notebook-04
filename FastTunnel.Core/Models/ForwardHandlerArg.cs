@@ -12,3 +12,5 @@ namespace FastTunnel.Core.Models
         public Socket LocalClient { get; set; }
     }
 }
+
+// 2572c8

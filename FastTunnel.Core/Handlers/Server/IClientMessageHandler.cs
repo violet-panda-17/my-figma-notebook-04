@@ -16,3 +16,4 @@ namespace FastTunnel.Core.Handlers
         Task<bool> HandlerMsg(FastTunnelServer server, WebSocket client, string msg);
     }
 }
+// d598dc
